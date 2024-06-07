@@ -3,6 +3,10 @@ class BankAccount:
         self.name = ""
         self.account_number = "4355400938"
         self.balance = 0
+<<<<<<< HEAD
+=======
+        self.__interest_rate = 0.005
+>>>>>>> 905202859c66da4b3d85303e62ec5e051f05d410
         print("Hello!! Welcome to the Deposit and Withdrawal Machine")
 
     def deposit(self, amount):
@@ -16,3 +20,11 @@ class BankAccount:
 
         else:
             print("You don't have enough funds to withdraw")
+<<<<<<< HEAD
+=======
+
+    def get_interest_rate(self):
+        return self.__interest_rate
+
+
+>>>>>>> 905202859c66da4b3d85303e62ec5e051f05d410
