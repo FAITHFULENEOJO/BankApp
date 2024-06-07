@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.12 (Bingham_bank_ap)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Bingham_bank_ap)" project-jdk-type="Python SDK" />
+=======
     <option name="sdkName" value="Python 3.10" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10" project-jdk-type="Python SDK" />
+>>>>>>> 905202859c66da4b3d85303e62ec5e051f05d410
 </project>
